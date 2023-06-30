@@ -28,7 +28,7 @@ We invite you to join our passionate and welcoming community of Knockout City en
 
 1. **Visit our Website:** Head over to our website at [kocity.xyz](https://kocity.xyz/) to learn more about the community and stay up-to-date with the latest news and updates. 🌐📰
 
-2. **Download the Launcher:** To join our community-hosted servers, download the UnofficialKnockout City LauncherBrawlin from our website. Follow the installation instructions, and you'll be ready to dive into the action-packed world of Knockout City once again! 🚀💻
+2. **Download the Launcher:** To join our community-hosted servers, download the UnofficialKnockout City Launcher from our website. Follow the installation instructions, and you'll be ready to dive into the action-packed world of Knockout City once again! 🚀💻
 
 3. **Join the Discord:** Connect with fellow players, ask questions, and engage in lively discussions on our Discord server. It's the perfect place to find teammates, share tips and tricks, and be part of our fantastic community. Join us at [discord.gg/kocxyz](https://discord.gg/kocxyz). 💬🎙️
 
